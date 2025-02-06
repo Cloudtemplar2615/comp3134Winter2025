@@ -1,0 +1,12 @@
+
+Pinging 143.198.42.27 with 32 bytes of data:
+Reply from 143.198.42.27: bytes=32 time=20ms TTL=55
+Reply from 143.198.42.27: bytes=32 time=16ms TTL=55
+Reply from 143.198.42.27: bytes=32 time=17ms TTL=55
+Reply from 143.198.42.27: bytes=32 time=16ms TTL=55
+Reply from 143.198.42.27: bytes=32 time=17ms TTL=55
+
+Ping statistics for 143.198.42.27:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 16ms, Maximum = 20ms, Average = 17ms

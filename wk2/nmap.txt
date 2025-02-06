@@ -1,0 +1,64 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-02-06 03:05 UTC
+Nmap scan report for google.com (172.217.165.14)
+Host is up (0.0025s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:802::200e
+rDNS record for 172.217.165.14: yyz12s06-in-f14.1e100.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.02 seconds
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-02-06 03:05 UTC
+Nmap scan report for google.com (172.217.165.14)
+Host is up (0.0016s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:802::200e
+rDNS record for 172.217.165.14: yyz12s06-in-f14.1e100.net
+
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap done: 1 IP address (1 host up) scanned in 0.26 seconds
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-02-06 03:05 UTC
+Stats: 0:00:01 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 30.95% done; ETC: 03:05 (0:00:02 remaining)
+Nmap scan report for google.com (172.217.165.14)
+Host is up (0.0015s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:802::200e
+rDNS record for 172.217.165.14: yyz12s06-in-f14.1e100.net
+
+PORT    STATE    SERVICE
+80/tcp  open     http
+81/tcp  filtered hosts2-ns
+82/tcp  filtered xfer
+83/tcp  filtered mit-ml-dev
+84/tcp  filtered ctf
+85/tcp  filtered mit-ml-dev
+86/tcp  filtered mfcobol
+87/tcp  filtered priv-term-l
+88/tcp  filtered kerberos-sec
+89/tcp  filtered su-mit-tg
+90/tcp  filtered dnsix
+91/tcp  filtered mit-dov
+92/tcp  filtered npp
+93/tcp  filtered dcp
+94/tcp  filtered objcall
+95/tcp  filtered supdup
+96/tcp  filtered dixie
+97/tcp  filtered swift-rvf
+98/tcp  filtered linuxconf
+99/tcp  filtered metagram
+100/tcp filtered newacct
+
+Nmap done: 1 IP address (1 host up) scanned in 1.45 seconds
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-02-06 03:05 UTC
+Nmap scan report for google.com (172.217.165.14)
+Host is up (0.0017s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:802::200e
+rDNS record for 172.217.165.14: yyz12s06-in-f14.1e100.net
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 2.07 seconds
